@@ -9,6 +9,8 @@ public class Demo2 {
 		System.out.println("3");
 
 		System.out.println("premaster & sub branch in same file -remote repo");
+		
+		System.out.println("5");
 	}
 
 }
